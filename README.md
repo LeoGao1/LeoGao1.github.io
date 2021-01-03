@@ -9,10 +9,10 @@ This is my personal website
 Built using:
 --------------------------------------------------------------------------------
 [HTML5](https://developers.google.com/web/)  
-[Bootstrap](http://getbootstrap.com/) for CSS  
-[jQuery](https://jquery.com/) for JS  
-[GitHub Pages](https://pages.github.com/) for hosting  
-[git](https://git-scm.com/) for source control
+[Bootstrap](http://getbootstrap.com/)  
+[jQuery](https://jquery.com/)   
+[GitHub Pages](https://pages.github.com/) 
+[git](https://git-scm.com/) 
 
 Based on the
 [Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
