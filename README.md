@@ -18,4 +18,4 @@ Based on the
 [Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
 from [Start Bootstrap](http://startbootstrap.com/).
 
-View it here: [downing.io](https://downing.io/)
+
