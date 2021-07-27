@@ -48,7 +48,7 @@ Highcharts.chart('c1', {
             name: 'Male/He/Him',
             value: 100
         },{
-            name: '21 Years Old',
+            name: '22 Years Old',
             value: 100
         },
         ]
@@ -59,24 +59,33 @@ Highcharts.chart('c1', {
             name: 'UCSD Undergraduate',
             value: 100
         }, {
+            name: 'JHU graduate',
+            value: 130
+        }, {
             name: 'Data Science Major',
             value: 130
-        },{
-            name: 'Cognitive Science Minor',
-            value: 80
         }]
     	},
       {
-        name: 'Interest',
+        name: 'Research Interest',
         data: [{
-            name: 'Movies',
-            value: 70
+            name: 'Machine Learning',
+            value: 100
         }, {
-            name: 'Reading',
-            value: 80
+            name: 'Computer Vision',
+            value: 90
         },{
-            name: 'Cooking',
+            name: 'NLP',
             value: 70
+        },{
+            name: 'Data Visualization',
+            value: 70
+        },{
+            name: 'Deep Learning',
+            value: 70
+        },{
+            name: 'Data Analysis',
+            value: 100
         },
 
 
@@ -125,20 +134,6 @@ Highcharts.chart('c2', {
             symbol: 'circle'
         },
         data: [{
-            x: Date.UTC(1999, 6, 8),
-            name: 'Born',
-            label: 'Born',
-            description: "Hello, World!"
-        }, {
-            x: Date.UTC(2008, 9, 1),
-            name: 'Start learning English',
-            label: 'Start Learning English',
-            description: "In my third year in primary school, I started learning English. I remember the first English word I learned is Apple"}, {
-            x: Date.UTC(2014, 6, 30),
-            name: 'Decide to study abroad',
-            label: 'Decide to study abroad',
-            description: "The important thing in life is to have a great aim, and the determination to attain it. — Johann Wolfgang von Goethe "
-      	}, {
             x: Date.UTC(2017, 8, 1),
             name: 'Entered UC San Diego',
             label: 'Entered UC San Diego',
@@ -159,10 +154,20 @@ Highcharts.chart('c2', {
             label: 'My first research',
             description: "Government Spending Research -- Utilized database from USASPENDING to analyze contract features in different ways.  Predicted cost overrun values for contracts. Used several Python libraries (DASK, VAEX, RAPID) to handle large-scale datasets and build machine learning models."
         }, {
-            x: Date.UTC(2021, 1, 4),
-            name: 'Update this website',
-            label: 'Update this website',
-            description: "Nice to meet you!"
+            x: Date.UTC(2021, 6, 15),
+            name: 'Graduate from UCSD',
+            label: 'Graduate from UCSD',
+            description: "Bye Tritons!"
+        }, {
+            x: Date.UTC(2021, 8, 31),
+            name: 'Start master program in JHU',
+            label: 'Start master program in JHU',
+            description: "Next Station"
+        }, {
+            x: Date.UTC(2023, 1, 30),
+            name: 'Will graduate from JHU',
+            label: 'Will graduate from JHU',
+            description: "End of my campus life"
         }
 
 
